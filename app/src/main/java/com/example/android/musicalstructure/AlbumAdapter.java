@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-class AlbumAdapter extends ArrayAdapter<Album> {
+public class AlbumAdapter extends ArrayAdapter<Album> {
 
     /**
      * Create a new {@link AlbumAdapter} object.

@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-class SongAdapter extends ArrayAdapter<Song> {
+public class SongAdapter extends ArrayAdapter<Song> {
     /**
      * Create a new {@link SongAdapter} object.
      *

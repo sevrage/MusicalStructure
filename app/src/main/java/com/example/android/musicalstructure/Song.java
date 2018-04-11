@@ -1,6 +1,6 @@
 package com.example.android.musicalstructure;
 
-class Song {
+public class Song {
     private final String title;
     private final String album;
     private final int trackNumber;

@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-class ArtistAdapter extends ArrayAdapter<Artist> {
+public class ArtistAdapter extends ArrayAdapter<Artist> {
     /**
      * Create a new {@link ArtistAdapter} object.
      *

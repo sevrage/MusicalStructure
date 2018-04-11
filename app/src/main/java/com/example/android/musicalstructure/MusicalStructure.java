@@ -4,7 +4,7 @@ import android.app.Application;
 
 import java.util.ArrayList;
 
-class MusicalStructure extends Application {
+public class MusicalStructure extends Application {
 
     private final ArrayList<Album> albums = new ArrayList<>();
 

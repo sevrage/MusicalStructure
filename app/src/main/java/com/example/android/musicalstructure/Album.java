@@ -2,7 +2,7 @@ package com.example.android.musicalstructure;
 
 import java.util.ArrayList;
 
-class Album {
+public class Album {
     private final String title;
     private final int year;
     private final String band;
