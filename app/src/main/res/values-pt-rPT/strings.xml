@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Estrutura Musical</string>
+    <string name="artists">Artistas</string>
+    <string name="songs">Músicas</string>
+    <string name="albums">Álbuns</string>
+</resources>
